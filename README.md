@@ -30,3 +30,7 @@ This repository contains scripts and data files for analyzing sales and profitab
 
 ## Getting Started
 You can run the code on Google Colab.
+
+PowerBi dashboard Created a PowerBi dashboard for visualizing the MSSQL dataset. The link is
+
+https://app.powerbi.com/view?r=eyJrIjoiMTIwZWQyOWEtNzVmNC00YjE2LTkzNTktZmM4ZTc1ZDY2MjA4IiwidCI6IjE3MGJiYWJkLWEyZjAtNGM5MC1hZDRiLTBlOGYwZjBjNDI1OSIsImMiOjN9
